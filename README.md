@@ -1,17 +1,51 @@
-سياسة الخصوصية لتطبيق "GiftDose"
+Privacy Policy – GiftDose
+At GiftDose, your privacy matters. This policy explains how we collect, use, and protect your information when you use our app.
+
+1. Information We Collect
+We collect limited information to provide and improve our service:
+
+Account Info: Name, email, and password (secured).
+
+Wish List Details: The gifts and ideas you add.
+
+Usage Data: How you use the app (to make it better).
+
+2. How We Use Your Data
+We use your data to:
+
+Provide and personalize your experience.
+
+Improve app performance and features.
+
+Send optional updates or notifications (you can opt out).
+
+3. Sharing Your Information
+We do not sell your personal data.
+We only share information when:
+
+Required by law.
+
+Necessary to provide app features (like sharing your wish list with people you choose).
+
+4. Your Control
+You can update or delete your account at any time.
+
+You can contact us to review or remove your data.
+
+5. Data Security
+We use secure systems and encryption to protect your information.
+However, no method is 100% secure—please use strong passwords.
+
+6. Children’s Privacy
+GiftDose is not intended for children under 13.
+We do not knowingly collect data from children.
+
+7. Changes to This Policy
+We may update this policy from time to time.
+We’ll let you know if any major changes happen.
+
+8. Contact Us
 
 
-
-1. جمع المعلومات: نجمع معلومات شخصية عند التسجيل في التطبيق مثل الاسم، رقم الهاتف، البريد الإلكتروني. نجمع أيضًا معلومات غير شخصية تتعلق بكيفية استخدامك للتطبيق. استخدام المعلومات: نستخدم المعلومات الشخصية لتقديم الخدمات وتحسينها، معالجة الدفعات، التواصل معكم بخصوص الخدمات أو العروض الترويجية، وتحليل استخدام الخدمة لتحسين تجربة المستخدم.
-
-2. مشاركة المعلومات:. نحتفظ بحق مشاركة المعلومات الشخصية مع الشركاء والمقاولين لغرض توفير الخدمة. لن نبيع معلوماتك الشخصية لطرف ثالث دون موافقتك
-
-3. الامان: نستخدم إجراءات أمانية متقدمة لحماية معلوماتك الشخصية من الوصول غير المصرح به، التغيير، الكشف أو الدمار.
-
-4. الوصول والتحكم: يمكنك مراجعة وتعديل معلوماتك الشخصية من خلال إعدادات التطبيق. كما يمكنك طلب حذف حسابك ومعلوماتك الشخصية من قاعدة بياناتنا.
-
-5. التحديثات على سياسة الخصوصية: نحتفظ بالحق في تعديل سياسة الخصوصية هذه في أي وقت. سنقوم بإخطاركم بأي تغييرات من خلال التطبيق أو عبر البريد الإلكتروني.
-
-6. موافقة المستخدم: بالاستخدام المستمر لتطبيق "سولينز"، توافق على جمع واستخدام ومشاركة المعلومات وفقًا لسياسة الخصوصية هذه.
-
-7. الاتصال بنا: إذا كان لديك أي أسئلة أو مخاوف بخصوص سياسة الخصوصية، يرجى الاتصال بنا عبر البريد الإلكتروني الموضح في التطبيق.
+If you have any questions about this policy, contact us at:
+📧 info@giftdose.com
