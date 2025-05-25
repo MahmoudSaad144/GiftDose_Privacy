@@ -1,4 +1,5 @@
 Privacy Policy – GiftDose
+
 At GiftDose, your privacy matters. This policy explains how we collect, use, and protect your information when you use our app.
 
 1. Information We Collect
