@@ -37,11 +37,9 @@ We may update this policy from time to time.
 We’ll let you know if any major changes happen.
 
 8. **Delete Your Account**  
-If you wish to delete your GiftDose account and all associated data, please send an email to [info@giftdose.com](mailto:info@giftdose.com) from the email address linked to your account with the subject line:  
-**"Delete My Account"**  
-Your request will be processed within **7 days**, and all related data will be permanently deleted from our systems.
+If you wish to delete your GiftDose account, there is a Delete Account button within the app. You can click it, and all data associated with it will be permanently deleted from our systems.
 
-9. **Contact Us**  
+10. **Contact Us**  
 If you have any questions about this policy, contact us at:  
 📧 info@giftdose.com
 
