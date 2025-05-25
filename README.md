@@ -36,11 +36,12 @@ We do not knowingly collect data from children.
 We may update this policy from time to time.  
 We’ll let you know if any major changes happen.
 
-8. **Contact Us**  
-If you have any questions about this policy, contact us at:  
-📧 info@giftdose.com
-
-9. **Delete Your Account**  
+8. **Delete Your Account**  
 If you wish to delete your GiftDose account and all associated data, please send an email to [info@giftdose.com](mailto:info@giftdose.com) from the email address linked to your account with the subject line:  
 **"Delete My Account"**  
 Your request will be processed within **7 days**, and all related data will be permanently deleted from our systems.
+
+9. **Contact Us**  
+If you have any questions about this policy, contact us at:  
+📧 info@giftdose.com
+
